@@ -1,0 +1,9 @@
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.DAL.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.DAL.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.Entity.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.Entity.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\bin\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\obj\Release\GMS.DAO.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\obj\Release\GMS.DAL.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.DAL\obj\Release\GMS.DAL.pdb

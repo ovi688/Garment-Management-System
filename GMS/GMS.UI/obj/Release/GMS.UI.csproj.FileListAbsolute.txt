@@ -1,0 +1,49 @@
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.exe.config
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.exe
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.DAL.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Entity.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.Design.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.Fonts.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.DAL.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Entity.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.adminForm.resources
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.employeeForm.resources
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.mainForm.resources
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.managerForm.resources
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.Properties.Resources.resources
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.csproj.GenerateResource.Cache
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.exe
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.exe.config
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.exe
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.UI.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\Bunifu_UI_v1.5.3.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.DAL.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Entity.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\itextsharp.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.Design.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\MetroFramework.Fonts.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.DAL.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Entity.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\bin\Release\itextsharp.xml
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.adminForm.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.AdminHome.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.EmployeeList.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.mainForm.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.ManagerForm.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.order_delivey.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.Payment.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.Properties.Resources.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.UpdateEmployee.resources
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.csproj.GenerateResource.Cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.exe
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.UI\obj\Release\GMS.UI.pdb

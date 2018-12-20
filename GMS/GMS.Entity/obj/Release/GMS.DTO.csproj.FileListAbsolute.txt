@@ -1,0 +1,5 @@
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Entity\bin\Release\GMS.Entity.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Entity\bin\Release\GMS.Entity.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Entity\obj\Release\GMS.DTO.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Entity\obj\Release\GMS.Entity.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Entity\obj\Release\GMS.Entity.pdb

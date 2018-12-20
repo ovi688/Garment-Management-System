@@ -1,0 +1,10 @@
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.Framework\bin\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.Framework\bin\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Framework\bin\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Framework\bin\Release\GMS.Framework.pdb
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.csprojResolveAssemblyReference.cache
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.dll
+F:\3.2 smstr\3.2 SD project\last hope\GarmentManagementSystem\GMS\GMS.Framework\obj\Release\GMS.Framework.pdb
